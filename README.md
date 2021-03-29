@@ -40,6 +40,8 @@ Here are the languages I mostly used in my GitHub repos.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anel-muminovic-3110891b3/)](https://www.linkedin.com/in/anel-muminovic-3110891b3/)
 
+![](https://komarev.com/ghpvc/?username=MuminovicAnel&color=grey)
+
 <!--
 **MuminovicAnel/MuminovicAnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
